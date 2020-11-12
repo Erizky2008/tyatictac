@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tyatictac/static/css/main.3cbc51fa.chunk.css",
+    "main.css": "/tyatictac/static/css/main.e6742a1c.chunk.css",
     "main.js": "/tyatictac/static/js/main.fa62b1b7.chunk.js",
     "main.js.map": "/tyatictac/static/js/main.fa62b1b7.chunk.js.map",
     "runtime-main.js": "/tyatictac/static/js/runtime-main.e75710f1.js",
@@ -10,14 +10,14 @@
     "static/js/2.d381e380.chunk.js.map": "/tyatictac/static/js/2.d381e380.chunk.js.map",
     "index.html": "/tyatictac/index.html",
     "static/css/2.06689f82.chunk.css.map": "/tyatictac/static/css/2.06689f82.chunk.css.map",
-    "static/css/main.3cbc51fa.chunk.css.map": "/tyatictac/static/css/main.3cbc51fa.chunk.css.map",
+    "static/css/main.e6742a1c.chunk.css.map": "/tyatictac/static/css/main.e6742a1c.chunk.css.map",
     "static/js/2.d381e380.chunk.js.LICENSE.txt": "/tyatictac/static/js/2.d381e380.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e75710f1.js",
     "static/css/2.06689f82.chunk.css",
     "static/js/2.d381e380.chunk.js",
-    "static/css/main.3cbc51fa.chunk.css",
+    "static/css/main.e6742a1c.chunk.css",
     "static/js/main.fa62b1b7.chunk.js"
   ]
 }
